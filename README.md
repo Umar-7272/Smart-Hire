@@ -1,45 +1,80 @@
-# Smart-Hire
-Job portal built with ASP.NET, C# and SQL Server.
+# 💼 SmartHire - AI Powered Job Portal
 
-## Features
-- User Login
-- Company Login
-- Job Posting
-- Job Applications
-- Responsive Design
+SmartHire is a modern Job Portal developed using ASP.NET Core MVC where job seekers can search and apply for jobs while employers can post and manage job listings.
 
-## Technologies
-- ASP.NET
+---
+
+## 🚀 Features
+
+✅ User Authentication & Authorization
+
+✅ Job Search
+
+✅ Job Applications
+
+✅ Employer Dashboard
+
+✅ Admin Panel
+
+✅ Role Based Access
+
+✅ SQL Server Database
+
+✅ Responsive UI
+
+---
+
+## 🛠 Tech Stack
+
+- ASP.NET Core MVC
 - C#
 - SQL Server
-- HTML
-- CSS
+- Entity Framework Core
+- HTML5
+- CSS3
+- Bootstrap
 - JavaScript
-- ## Project Screenshots
 
-### Student Sign Up
-![Student Sign Up](images/BB.png)
+---
 
-### Student Login
-![Student Login](images/CC.png)
+## 📷 Screenshots
 
-### Student Dashboard
-![Student Dashboard](images/DD.png)
+### Login Page
 
-### Available Jobs
-![Available Jobs](images/EE.png)
+> Add your login screenshot here
 
-### My Profile
-![My Profile](images/GG.png)
+---
 
-### Company Sign Up
-![Company Sign Up](images/s.png)
+## 📂 Installation
 
-### Company Login
-![Company Login](images/c.png)
+1. Clone Repository
 
-### Company Dashboard
-![Company Dashboard](images/company-dashboard.png)
+```bash
+git clone https://github.com/Umar-7272/Smart-Hire.git
+```
 
-### Job Listings
-![Job Listings](images/jj.png)
+2. Open Visual Studio
+
+3. Restore NuGet Packages
+
+4. Configure SQL Server Connection String
+
+5. Run Migrations
+
+6. Press F5
+
+---
+
+## 👨‍💻 Author
+
+**Umar Farooq**
+
+AI & ASP.NET Developer
+
+Pakistan
+
+---
+
+## ⭐ If you like this project
+
+Please give this repository a Star ⭐
